@@ -1,12 +1,11 @@
 ---
- permalink: /
- title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
- title: "About me"
- excerpt: "About me"
- author_profile: true
- redirect_from: 
-   - /about/
-   - /about.html
+permalink: /
+title: "About me"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
  ---
  
 I'm a third year undergraduate student from [School of Computing and Artificial Intelligence](https://it.swufe.edu.cn/), [Southwest University of Finance and Economics](https://www.swufe.edu.cn/). My research interest includes computer vision, multi-view learning.
